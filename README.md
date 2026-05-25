@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding.gif" width="700"/>
+  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" width="700"/>
 </p>
 <h1 align="center">Hi 👋 I'm Samuel</h1>
 
