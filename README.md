@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/coding.gif" width="700"/>
+</p>
+<h1 align="center">Hi 👋 I'm Samuel</h1>
 
-<!--
-**SmuelIsHere/SmuelIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 MSc Student in Computer Engineering — Artificial Intelligence <br>
+🧠 ML • DL • CV • Generative AI • Robust AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+```python
+class AIEngineer:
+
+    def __init__(self):
+        self.role = "MSc AI Student"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "Adversarial Robustness"
+        ]
+
+    def currently_learning(self):
+        return [
+            "A lot of stuff"
+        ]
+
+me = AIEngineer()
+```
+
+---
+
+## Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,php,js,java,c,typescript,react,linux,git,bash,vscode" />
+</p>
+
+---
+
+## Research Interests
+
+- Robust & Trustworthy AI
+- Adversarial Attacks and Defenses
+- Generative Models
+- Computer Vision Systems
+- Multimodal AI
