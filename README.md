@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cat-computer.gif" width="500"/>
+  <img src="assets/cat-computer.gif" width="300"/>
 </p>
 <h1 align="center">Hi 👋 I'm Samuel</h1>
 
